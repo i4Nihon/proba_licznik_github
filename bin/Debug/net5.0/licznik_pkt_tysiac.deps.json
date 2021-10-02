@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "licznik_pkt_tysiac/1.0.0": {
+        "runtime": {
+          "licznik_pkt_tysiac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "licznik_pkt_tysiac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

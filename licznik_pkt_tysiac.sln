@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "licznik_pkt_tysiac", "licznik_pkt_tysiac.csproj", "{97C63D6C-D533-46AE-9B9F-F792CA40BA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C63D6C-D533-46AE-9B9F-F792CA40BA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C63D6C-D533-46AE-9B9F-F792CA40BA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C63D6C-D533-46AE-9B9F-F792CA40BA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C63D6C-D533-46AE-9B9F-F792CA40BA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7321D3F7-9610-45CA-B1D6-6E4636BEEA74}
+	EndGlobalSection
+EndGlobal

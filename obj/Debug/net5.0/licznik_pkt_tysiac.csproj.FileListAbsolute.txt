@@ -1,0 +1,16 @@
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.AssemblyInfo.cs
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.exe
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.deps.json
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.runtimeconfig.json
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.runtimeconfig.dev.json
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.dll
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\ref\licznik_pkt_tysiac.dll
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\bin\Debug\net5.0\licznik_pkt_tysiac.pdb
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.dll
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\ref\licznik_pkt_tysiac.dll
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.pdb
+C:\Users\marek\Desktop\liczniki_c#\licznik_pkt_tysiac\obj\Debug\net5.0\licznik_pkt_tysiac.genruntimeconfig.cache
